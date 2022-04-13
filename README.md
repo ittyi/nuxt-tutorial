@@ -1,1 +1,1 @@
-# nuxt-tutorial
+# vue-tutorial
